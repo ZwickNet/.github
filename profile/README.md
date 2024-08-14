@@ -1,6 +1,7 @@
 ## ZwickNet
+ZwickNet is an Australian private software project, but will create some public applications.
 
-**Subtitle**
+Contact Information:
+✉️email: contact@zwick.au
+🌐website: www.zwick.au (not currently online)
 
-✉️For enquiries, email: contact@zwick.au
-🌐Website: www.zwick.au (not online)
